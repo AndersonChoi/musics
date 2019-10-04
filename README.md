@@ -76,3 +76,10 @@ Usage Terms:
 2. You may monetize your video that contains my music, as long as the video conforms to the usage terms.
 3. You may not add my music to a Youtube Music/Radio style channel without prior specific consent.
 ```
+
+### Floppy Circus
+SoundCloud : https://soundcloud.com/floppycircus
+
+```
+You can use my music in your videos as long as you credit both my Soundcloud and Facebook page
+```
