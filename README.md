@@ -77,9 +77,27 @@ Usage Terms:
 3. You may not add my music to a Youtube Music/Radio style channel without prior specific consent.
 ```
 
-### Floppy Circus
-SoundCloud : https://soundcloud.com/floppycircus
+### LAKEY INSPIRED
+SoundCloud : https://soundcloud.com/lakeyinspired
 
 ```
-You can use my music in your videos as long as you credit both my Soundcloud and Facebook page
+Yess, you may use my music in YouTube videos.
+Just credit my Soundcloud or Youtube link in desc.
+```
+
+### MArc North
+SoundCloud : https://soundcloud.com/arcnorth
+
+```
+All of my originals are free to use on YouTube and Twitch if you credit me! Contact me for other platforms.
+```
+
+### DJ AG
+SoundCloud : https://soundcloud.com/djag-4
+
+```
+I'm a norwegian electronic music producer.
+Trying to upload a new song every month.
+Check out my Youtube Channel for more music!
+Remember to credit me if you use my music in something.
 ```
