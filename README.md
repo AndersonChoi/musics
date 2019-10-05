@@ -135,4 +135,24 @@ HowToUse : https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA/about
 ```
 
 
+## Youtube
+
+### BreakingCopyright - Non Copyrighted Music
+Youtube : https://www.youtube.com/user/BreakingTheCopyright
+
+HowToUse : https://goo.gl/cQBKdV
+
+```
+Music for YouTube, Twitch, Podcasts, Commercials etc.
+
+Can I use your music on YouTube/Twitch?
+Yes, all the music that we promote is free to use on YouTube/Twitch with ONE condition -> Give credit to the artist
+
+Can I use your music on Facebook, Instagram or any other social media?
+It depends on the licence of the song. If the song is under a Creative Commons (CC-BY) or a Royalty Free licence, then you can use it there with ONE condition -> Give credit to the artist
+
+Can I use your music in a Commercial, Film, Podcast, or Videogame?
+It depends on the licence of the song. If the song is under a Creative Commons (CC-BY) or a Royalty Free licence, then you can use it there with ONE condition -> Give credit to the artist
+
+```
 
