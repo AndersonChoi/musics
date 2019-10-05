@@ -101,3 +101,38 @@ Trying to upload a new song every month.
 Check out my Youtube Channel for more music!
 Remember to credit me if you use my music in something.
 ```
+
+### Bass Rebels
+SoundCloud : https://soundcloud.com/bassrebels
+
+HowToUse : https://www.bassrebels.co.uk/musiclicense
+
+```
+If you are a independant creators you can use our music in your videos on YouTube, Facebook, Twitter and Instagram as long as you leave credit in your video description. So all you need to do is copy and paste the section that is in-between two lines in the description as shown on the right
+```
+
+### Audio Library
+SoundCloud : https://soundcloud.com/yt-audio-library
+
+HowToUse : https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA/about
+
+```
+✅ About using the music:
+
+- You MUST include the full credits in your video description
+- You can NOT claim the music as your own
+- You can NOT sell the music anywhere
+- You can NOT remix the music without the author's consent
+- You can NOT use the music without giving any credits in the video description
+- You can NOT remove or add parts from/to the credits
+- You can NOT use third-party software to download the video/track, always use our download links
+- You MUST contact the artist if you wish to use the music on any kind of project outside of YouTube
+
+⚠️ Important:
+
+- If you don't follow these policies, you can get a copyright claim/strike.
+- If you need more information about using music, please get in touch with the artist.
+```
+
+
+
